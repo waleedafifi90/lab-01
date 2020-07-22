@@ -111,3 +111,41 @@ div {
         background-color: #f0ece3;
     }
 }
+
+@media(max-width: 960px) {
+    .a {
+         background-color: #bbe1fa
+
+    }
+    .b {
+        background-color: #3282b8
+
+    }
+    .c {
+        background-color: #0f4c75
+
+    }
+    .d {
+        background-color: #596e79
+
+    }
+    .e {
+        background-color: #84a9ac
+
+    }
+    .f {
+        background-color: #204051
+
+    }
+    .g {
+        background-color: #383e56
+
+    }
+    .h {
+        background-color: #0fabbc
+
+    }
+    .i {
+        background-color: #12cad6
+
+    }
