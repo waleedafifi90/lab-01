@@ -106,7 +106,13 @@ div {
     }
 }
 
-@media(max-width: 767px) {
+@media(min-width: 960px) {
+    div {
+        background-color: #f0ece3;
+    }
+}
+
+@media(max-width: 1024px) {
     .a {
          background-color: #bbe1fa
 
@@ -142,11 +148,6 @@ div {
     .i {
         background-color: #12cad6
 
-    }
-
-@media(min-width: 960px) {
-    div {
-        background-color: #f0ece3;
     }
 }
 
