@@ -46,52 +46,52 @@ div {
         background-color: #dfd3c3!important
     }
     .a {
-        grid-column: 1 / 6;
+/*         grid-column: 1 / 6; */
         background-color: #937d14!important
 
     }
     .b {
-        grid-column: 1 / 2;
+/*         grid-column: 1 / 2; */
         background-color: #ffecc7!important
 
     }
     .c {
-        grid-column: 2 / 4;
+/*         grid-column: 2 / 4; */
         background-color: #fdd998!important
 
     }
     .d {
-        grid-column: 4 / 6;  
+/*         grid-column: 4 / 6;   */
         background-color: #f5b971!important
 
     }
     .e {
-        width: 100%;
-        grid-column-start: 2;
+/*         width: 100%; */
+/*         grid-column-start: 2; */
         background-color: #85a392!important
 
     }
     .f {
-        width: 100%;
-        grid-column: 3 / 4;
+/*         width: 100%;
+        grid-column: 3 / 4; */
         background-color: #f0daa4!important
 
     }
     .g {
-        width: 100%;
-        grid-column: 4 / 5;
+/*         width: 100%;
+        grid-column: 4 / 5; */
         background-color: #eaac9d!important
 
     }
     .h {
-        width: 100%;
-        grid-column: 5 / 6;
+/*         width: 100%;
+        grid-column: 5 / 6; */
         background-color: #b49c73!important
 
     }
     .i {
-        width: 100%;
-        grid-column: 2 / 6;
+/*         width: 100%;
+        grid-column: 2 / 6; */
         background-color: #565d47!important
 
     }
