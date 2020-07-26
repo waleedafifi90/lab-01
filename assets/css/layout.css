@@ -97,6 +97,36 @@ div {
     }
 }
 
+@media(min-width: 768px) {
+    .a {
+        height: 100px;
+    }
+    .b {
+        height: 600px;
+    }
+    .c {
+        height: 200px;
+    }
+    .d {
+        height: 200px;
+    }
+    .e {
+        height: 250px;
+    }
+    .f {
+        height: 250px;
+    }
+    .g {
+        height: 250px;
+    }
+    .h {
+        height: 250px;
+    }
+    .i {
+        height: 150px;
+    }
+}
+
 @media(min-width: 768px) and (max-width: 1024px) {
     .a {
          background-color: #bbe1fa
